@@ -67,3 +67,13 @@
         Tradeweld Mig 200M  R10500              Savings         TAKEALOT
         Earth auger         R7399               Savings         TAKEALOT
         100m tape           R 797               Savings         TAKEALOT
+        Wood augers                             Savings         TAKEALOT
+        Pipe Cutter         R 700               Savings         TAKEALOT
+        Wood file           R 700               Savings         TAKEALOT
+        Metal file          R 700               Savings         TAKEALOT
+        Bow Saw             R 700               Savings         TAKEALOT
+        Brush cutter        R 700               Savings         TAKEALOT
+        Pruning Shears      R 319               Savings         TAKEALOT
+        Tap and die set     R2000               Savings         TAKEALOT
+        Electric Knapsack   R1699               Savings         TAKEALOT
+        Hose Pipes 20mm     R 795               Savings         TAKEALOT
