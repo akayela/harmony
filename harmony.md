@@ -77,3 +77,4 @@
         Tap and die set     R2000               Savings         TAKEALOT
         Electric Knapsack   R1699               Savings         TAKEALOT
         Hose Pipes 20mm     R 795               Savings         TAKEALOT
+        Milling machine     R 795               Savings         TAKEALOT
